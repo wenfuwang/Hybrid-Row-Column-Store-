@@ -1,6 +1,10 @@
+
+This is a hybrid storage engine. One sentence to summarize, we have added both columnar format and its corresponding query processing into RocksDB 4.9, as a result enabling the power of analytic processing.
+_________________________________________________________________________________________________
+
+
 ## RocksDB: A Persistent Key-Value Store for Flash and RAM Storage
 
-[![Build Status](https://travis-ci.org/facebook/rocksdb.svg?branch=master)](https://travis-ci.org/facebook/rocksdb)
 
 RocksDB is developed and maintained by Facebook Database Engineering Team.
 It is built on earlier work on LevelDB by Sanjay Ghemawat (sanjay@google.com)
